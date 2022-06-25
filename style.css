@@ -1,0 +1,9 @@
+body {
+  background-image: url(images/avocado.jpg);
+  background-repeat: repeat-x;
+  background-position: top right;
+}
+
+p {
+  font-size: 20px;
+}
